@@ -1,0 +1,4 @@
+!.vscode/*
+!build/cpy_uf2.py
+build/
+*.cmake
