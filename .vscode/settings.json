@@ -45,7 +45,7 @@
     "raspberry-pi-pico.ninjaPath": "${HOME}/.pico-sdk/ninja/v1.13.2/ninja",
     "python-envs.pythonProjects": [
         {
-            "path": "build/cpy_uf2.py",
+            "path": "flash_py/cpy_uf2.py",
             "envManager": "ms-python.python:venv",
             "packageManager": "ms-python.python:pip"
         }
