@@ -2,7 +2,7 @@
 import shutil
 
 # Specify the path of the file you want to copy to pico/dir 
-file_to_copy = '../build/gpio/led/led.uf2'
+file_to_copy = '../build/comm_protocols/lcd_i2c/lcd_i2c.uf2'
 
 #Path of D: where .uf2 file is copied
 destination_directory = 'D:'
